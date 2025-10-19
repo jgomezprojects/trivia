@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Trivia de Cultura General</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container" id="mainMenu">
+    <h1>Trivia de Cultura General</h1>
+
+    <div class="section">
+      <h3>Selecciona el nivel</h3>
+      <div id="levels">
+        <button data-level="facil">Fácil</button>
+        <button data-level="intermedio">Intermedio</button>
+        <button data-level="dificil">Difícil</button>
+      </div>
+    </div>
+
+    <div class="section">
+      <h3>Selecciona el área</h3>
+      <div id="areas">
+        <button data-area="ciencia">Ciencia</button>
+        <button data-area="deporte">Deporte</button>
+        <button data-area="cultura">Cultura general</button>
+        <button data-area="arte">Arte</button>
+      </div>
+    </div>
+
+    <button id="startBtn">Comenzar</button>
+  </div>
+
+  <div class="container question-container" id="quiz">
+    <div class="top-row">
+      <div id="progress">Pregunta <span id="current">0</span> / <span id="total">0</span></div>
+      <div id="score">Aciertos: <span id="hits">0</span></div>
+    </div>
+
+    <h2 id="question"></h2>
+    <img id="questionImage" src="" alt="">
+    <div class="answers" id="answers"></div>
+  </div>
+
+  <div class="container question-container" id="resultScreen" style="display:none;">
+    <h2>Resultado final</h2>
+    <p id="resultText"></p>
+    <button id="finishBtn">Fin</button>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
