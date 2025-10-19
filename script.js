@@ -1,4 +1,5 @@
-// =================== VARIABLES GLOBALES ===================
+document.addEventListener("DOMContentLoaded", () => {
+ // =================== VARIABLES GLOBALES ===================
 let selectedLevel = null;
 let selectedArea = null;
 let currentQuestion = 0;
@@ -505,4 +506,6 @@ document.getElementById("finishBtn").addEventListener("click", () => {
   document.querySelectorAll("button.selected").forEach(b => b.classList.remove("selected"));
   selectedLevel = null;
   selectedArea = null;
+});
+
 });
