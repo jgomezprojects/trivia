@@ -493,9 +493,9 @@ function selectAnswer(opcion, correcta, btn) {
 function endGame() {
   quiz.style.display = "none";
   resultScreen.style.display = "block";
+const incorrectas = questions.length - score;
+resultText.textContent = `Respondiste correctamente ${score} de ${questions.length} preguntas. Incorrectas: ${incorrectas}.`;
 
-  const incorrectas = questions.length - score;
-  resultText.textContent = 'Respondiste correctamente ${score} de ${questions.length} preguntas. Incorrectas: ${incorrectas}.';
 }
 
 document.getElementById("finishBtn").addEventListener("click", () => {
