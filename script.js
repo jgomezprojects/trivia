@@ -1,5 +1,4 @@
-document.addEventListener("DOMContentLoaded", () => {
- // =================== VARIABLES GLOBALES ===================
+
 let selectedLevel = null;
 let selectedArea = null;
 let currentQuestion = 0;
@@ -496,7 +495,7 @@ function endGame() {
   resultScreen.style.display = "block";
 
   const incorrectas = questions.length - score;
-  resultText.textContent = Respondiste correctamente ${score} de ${questions.length} preguntas. Incorrectas: ${incorrectas}.;
+  resultText.textContent = 'Respondiste correctamente ${score} de ${questions.length} preguntas. Incorrectas: ${incorrectas}.';
 }
 
 document.getElementById("finishBtn").addEventListener("click", () => {
@@ -508,4 +507,3 @@ document.getElementById("finishBtn").addEventListener("click", () => {
   selectedArea = null;
 });
 
-});
