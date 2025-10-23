@@ -1,4 +1,3 @@
-
 let selectedLevel = null;
 let selectedArea = null;
 let currentQuestion = 0;
@@ -123,7 +122,7 @@ const data = {
         pregunta: "¿Cuántos jugadores hay en un equipo de fútbol en el campo?",
         opciones: ["9", "10", "11", "12"],
         correcta: "11",
-        img: "https://upload.wikimedia.org/wikipedia/commons/d/d3/Football_pitch.svg"
+        img: "https://thehardtackle.com/wp-content/uploads/2022/11/homecrowd-formation-kySHlBU5VEg3S52F26BN.png"
       },
       {
         pregunta: "¿En qué deporte se usa una raqueta?",
@@ -135,7 +134,7 @@ const data = {
         pregunta: "¿Qué país ganó el Mundial de Fútbol 2018?",
         opciones: ["Alemania", "Brasil", "Francia", "Argentina"],
         correcta: "Francia",
-        img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FFrancia&psig=AOvVaw2thmj39BNIfOpTejF2x11z&ust=1760799150394000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIj1uZC-q5ADFQAAAAAdAAAAABAX"
+        img: "https://ecsmedia.pl/c/fototapeta-paryz-wieza-eiffla-flizelina-zmywalna-135x90-b-iext171431517.jpg"
       }
     ],
     intermedio: [
@@ -193,25 +192,25 @@ const data = {
         pregunta: "¿En qué deporte se utiliza el término 'birdie'?",
         opciones: ["Golf", "Béisbol", "Tenis", "Rugby"],
         correcta: "Golf",
-        img: "https://upload.wikimedia.org/wikipedia/commons/3/3b/Golf_ball.jpg"
+        img: "https://golferhive.com/wp-content/uploads/2023/05/What-is-a-Birdie-in-Golf-1024x745.jpg"
       },
       {
         pregunta: "¿Cuántos rounds tiene un combate profesional de boxeo?",
         opciones: ["10", "12", "15", "8"],
         correcta: "12",
-        img: "https://upload.wikimedia.org/wikipedia/commons/1/12/Boxing_ring.jpg"
+        img: "https://cdn.briefly.co.za/images/1120/b5573d5acc4d87ad.jpeg?v=1"
       },
       {
         pregunta: "¿Qué país ganó el Mundial de fútbol de 2006?",
         opciones: ["Brasil", "Italia", "Alemania", "Francia"],
         correcta: "Italia",
-        img: "https://upload.wikimedia.org/wikipedia/commons/6/6a/Italia_2006_Celebration.jpg"
+        img: "https://tse4.mm.bing.net/th/id/OIP.SVokor4lxoflJCdJ0TqsMwHaE5?cb=12&w=1080&h=715&rs=1&pid=ImgDetMain&o=7&rm=3"
       },
       {
         pregunta: "¿En qué país nació Usain Bolt?",
         opciones: ["Jamaica", "EEUU", "Canadá", "Sudáfrica"],
         correcta: "Jamaica",
-        img: "https://upload.wikimedia.org/wikipedia/commons/9/96/Usain_Bolt_16082009_Berlin_2009_100m_final2.jpg"
+        img: "https://tse1.mm.bing.net/th/id/OIP.CIpNMzYwvrq3s6FnT2eZGgHaE7?cb=12&w=1804&h=1200&rs=1&pid=ImgDetMain&o=7&rm=3"
       }
     ]
   },
@@ -222,19 +221,19 @@ const data = {
         pregunta: "¿En qué continente está Egipto?",
         opciones: ["Asia", "África", "Europa", "América"],
         correcta: "África",
-        img: "https://cdn.pixabay.com/photo/2016/11/29/03/42/pyramids-1863026_960_720.jpg"
+        img: "https://www.vipavi.es/wp-content/uploads/2016/02/Hamer-02-768x512.jpg"
       },
       {
         pregunta: "¿Qué idioma se habla principalmente en Brasil?",
         opciones: ["Español", "Portugués", "Inglés", "Francés"],
         correcta: "Portugués",
-        img: "https://cdn.pixabay.com/photo/2016/11/21/16/50/brazil-1842209_960_720.jpg"
+        img: "https://www.swr.de/kultur/sprache/1751023876594%2Csprachen-vielfalt-100~_v-16x9@2dL_-6c42aff4e68b43c7868c3240d3ebfa29867457da.jpg"
       },
       {
         pregunta: "¿Cuál es la capital de España?",
         opciones: ["Madrid", "Barcelona", "Sevilla", "Valencia"],
         correcta: "Madrid",
-        img: "https://cdn.pixabay.com/photo/2017/02/12/17/32/madrid-2064406_960_720.jpg"
+        img: "https://www.goatsontheroad.com/wp-content/uploads/2022/07/expat-life-in-madrid.jpg"
       }
     ],
     intermedio: [
@@ -242,31 +241,31 @@ const data = {
         pregunta: "¿Quién pintó la Mona Lisa?",
         opciones: ["Van Gogh", "Picasso", "Da Vinci", "Miguel Ángel"],
         correcta: "Da Vinci",
-        img: "https://cdn.pixabay.com/photo/2016/11/23/14/45/mona-lisa-1853728_960_720.jpg"
+        img: "https://cdn.7days.ru/upload/images/1d0/5ac6dcd1a50b4160d6859d52dbf90.jpg"
       },
       {
         pregunta: "¿Cuál es el idioma más hablado del mundo?",
         opciones: ["Inglés", "Chino mandarín", "Español", "Árabe"],
         correcta: "Chino mandarín",
-        img: "https://cdn.pixabay.com/photo/2015/03/03/08/55/world-657078_960_720.jpg"
+        img: "https://cdn.wikifarmer.com/market/en/images/detailed/59/mandarini-siciliani_65kk-8s.jpg?t=1642678621"
       },
       {
         pregunta: "¿Qué ciudad es conocida como la ciudad eterna?",
         opciones: ["Atenas", "Roma", "París", "Estambul"],
         correcta: "Roma",
-        img: "https://cdn.pixabay.com/photo/2016/11/29/13/12/rome-1867382_960_720.jpg"
+        img: "https://condominiosjardins.com.br/wp-content/uploads/2022/01/roma.jpg"
       },
       {
         pregunta: "¿Cuál es el país con más habitantes del mundo?",
         opciones: ["India", "China", "EE.UU.", "Rusia"],
         correcta: "China",
-        img: "https://cdn.pixabay.com/photo/2015/03/03/08/55/world-657078_960_720.jpg"
+        img: "https://tse3.mm.bing.net/th/id/OIP.DpDRGbE0EiE_DM5HZ6obqQHaD4?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3"
       },
       {
         pregunta: "¿Qué moneda se usa en Japón?",
         opciones: ["Yen", "Won", "Peso", "Dólar"],
         correcta: "Yen",
-        img: "https://cdn.pixabay.com/photo/2017/07/25/22/13/japanese-yen-2535236_960_720.jpg"
+        img: "https://www.topmannews.com/uploads/posts/265/1617274136_e94c74fbbb114e456bd2df5383e254921b004f0.png"
       }
     ],
     dificil: [
@@ -274,43 +273,43 @@ const data = {
         pregunta: "¿Qué civilización construyó Machu Picchu?",
         opciones: ["Azteca", "Inca", "Maya", "Olmeca"],
         correcta: "Inca",
-        img: "https://cdn.pixabay.com/photo/2015/10/16/14/28/machu-picchu-991715_960_720.jpg"
+        img: "https://hablemosdeculturas.com/wp-content/uploads/2018/12/incas-del-peru-8-2-768x512.jpg"
       },
       {
         pregunta: "¿Qué país inventó la pólvora?",
         opciones: ["China", "Japón", "India", "Corea"],
         correcta: "China",
-        img: "https://cdn.pixabay.com/photo/2015/11/07/11/37/fireworks-1031169_960_720.jpg"
+        img: "https://tse1.mm.bing.net/th/id/OIP.km5EBE5xtG0iAHWtjJJIcQHaEK?cb=12&w=626&h=352&rs=1&pid=ImgDetMain&o=7&rm=3"
       },
       {
         pregunta: "¿Cuál es la montaña más alta del mundo?",
         opciones: ["K2", "Everest", "Makalu", "Annapurna"],
         correcta: "Everest",
-        img: "https://cdn.pixabay.com/photo/2015/03/26/09/41/mount-everest-690886_960_720.jpg"
+        img: "https://cdn.pixabay.com/photo/2019/12/21/13/49/nepal-4710522__480.jpg"
       },
       {
         pregunta: "¿En qué país nació Aristóteles?",
         opciones: ["Grecia", "Italia", "Egipto", "Turquía"],
         correcta: "Grecia",
-        img: "https://cdn.pixabay.com/photo/2017/05/13/22/54/greek-2312999_960_720.jpg"
+        img: "https://tse4.mm.bing.net/th/id/OIP.mjLayWMMi3DBKpcRq4Ko9QHaE8?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3"
       },
       {
         pregunta: "¿Qué país es conocido como la tierra del sol naciente?",
         opciones: ["Japón", "China", "Corea", "Filipinas"],
         correcta: "Japón",
-        img: "https://cdn.pixabay.com/photo/2016/11/23/14/42/mount-fuji-1853406_960_720.jpg"
+        img: "https://cdn1.matadornetwork.com/blogs/1/2011/05/japan-1200x729.jpg"
       },
       {
         pregunta: "¿Qué año comenzó la Segunda Guerra Mundial?",
         opciones: ["1939", "1941", "1945", "1936"],
         correcta: "1939",
-        img: "https://cdn.pixabay.com/photo/2015/09/18/11/36/war-944074_960_720.jpg"
+        img: "https://th.bing.com/th/id/R.14657a7efc26fde2206133407acbb0eb?rik=V2bdAYl%2fCwDqYw&riu=http%3a%2f%2fximenaduquevalencia.com%2fwp-content%2fuploads%2f2022%2f12%2fArticulo-como-ayudar-a-la-humanidad-diciembre-28-1200x800.jpg&ehk=U8WqK3lzRAD%2fF9m3tHoMO3lepJ0aXYvpBApyREzDxL0%3d&risl=&pid=ImgRaw&r=0"
       },
       {
         pregunta: "¿Qué país tiene forma de bota?",
         opciones: ["Italia", "Grecia", "España", "Francia"],
         correcta: "Italia",
-        img: "https://cdn.pixabay.com/photo/2015/09/18/11/36/italy-944074_960_720.jpg"
+        img: "https://www.kebuena.com.mx/wp-content/uploads/2020/06/GettyImages-1158422275-1-1-e1593469678374.jpg"
       }
     ]
   },
