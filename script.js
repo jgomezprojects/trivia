@@ -319,19 +319,18 @@ const data = {
         pregunta: "¿Quién pintó La noche estrellada?",
         opciones: ["Van Gogh", "Picasso", "Da Vinci", "Rembrandt"],
         correcta: "Van Gogh",
-        img: "https://cdn.pixabay.com/photo/2018/08/02/13/24/starry-night-3588187_960_720.jpg"
+        img: "https://c8.alamy.com/comp/PN0FYY/the-starry-night-van-gogh-1889-PN0FYY.jpg"
       },
       {
         pregunta: "¿Cuál es el instrumento principal en una orquesta?",
         opciones: ["Violín", "Piano", "Guitarra", "Trompeta"],
         correcta: "Violín",
-        img: "https://cdn.pixabay.com/photo/2017/01/10/22/19/orchestra-1964746_960_720.jpg"
-      },
+        img: "https://www.papillonsblancs-lille.org/images/AOUT22_osmf.jpg"      },
       {
         pregunta: "¿Qué arte usa arcilla como material?",
         opciones: ["Escultura", "Pintura", "Música", "Danza"],
         correcta: "Escultura",
-        img: "https://cdn.pixabay.com/photo/2017/09/29/12/15/pottery-2796012_960_720.jpg"
+        img: "https://www.65ymas.com/uploads/s1/39/59/59/david-4651157-1920_1_621x621.jpeg"
       }
     ],
     intermedio: [
@@ -339,31 +338,31 @@ const data = {
         pregunta: "¿Qué artista pintó 'El Guernica'?",
         opciones: ["Dalí", "Picasso", "Velázquez", "Monet"],
         correcta: "Picasso",
-        img: "https://cdn.pixabay.com/photo/2019/08/23/22/49/guernica-4426098_960_720.jpg"
+        img: "https://cdn.wallpapersafari.com/60/46/iSkuYD.jpg"
       },
       {
         pregunta: "¿Qué corriente artística representa sueños y el subconsciente?",
         opciones: ["Cubismo", "Surrealismo", "Realismo", "Impresionismo"],
         correcta: "Surrealismo",
-        img: "https://cdn.pixabay.com/photo/2015/02/11/14/24/painting-633252_960_720.jpg"
+        img: "https://1.bp.blogspot.com/-WiutbFPJSU4/WVcPreFNvVI/AAAAAAAAA2U/SO3B6BuXQ5AvyvnQz9FUzedL_fpYo6t3wCLcBGAs/s1600/p%2B8.jpg"
       },
       {
         pregunta: "¿Qué famoso escultor hizo 'El Pensador'?",
         opciones: ["Rodin", "Miguel Ángel", "Donatello", "Bernini"],
         correcta: "Rodin",
-        img: "https://cdn.pixabay.com/photo/2016/12/15/20/21/the-thinker-1910733_960_720.jpg"
+        img: "https://tse3.mm.bing.net/th/id/OIP.0GJQl7xPhQodzBekbjKpiQHaLG?w=1667&h=2500&rs=1&pid=ImgDetMain&o=7&rm=3"
       },
       {
         pregunta: "¿En qué país nació Pablo Picasso?",
         opciones: ["España", "Francia", "Italia", "Portugal"],
         correcta: "España",
-        img: "https://cdn.pixabay.com/photo/2019/08/23/22/49/guernica-4426098_960_720.jpg"
+        img: "https://hips.hearstapps.com/hmg-prod/images/pablo-picasso-in-his-mansion-la-californie-in-cannes-news-photo-1688573424.jpg?crop=1xw:0.99741xh;center"
       },
       {
         pregunta: "¿Qué material usa un pintor al óleo?",
         opciones: ["Tinta", "Pigmento y aceite", "Acrílico", "Grafito"],
         correcta: "Pigmento y aceite",
-        img: "https://cdn.pixabay.com/photo/2016/11/29/06/18/paint-1869566_960_720.jpg"
+        img: "https://th.bing.com/th/id/R.71bc87bc4765efd7a7ca6a8139155f59?rik=aKJdOSN%2bvCma2A&riu=http%3a%2f%2fm1.paperblog.com%2fi%2f300%2f3007847%2fpintura-al-oleo-tecnicas-caracteristicas-L-R6b2nG.jpeg&ehk=w2Fn7PCXHLWBGL%2fwR3NV0snzj1ybG0APo3n0QBOkG%2bI%3d&risl=&pid=ImgRaw&r=0"
       }
     ],
     dificil: [
@@ -371,43 +370,43 @@ const data = {
         pregunta: "¿Quién pintó la Capilla Sixtina?",
         opciones: ["Miguel Ángel", "Da Vinci", "Rafael", "Caravaggio"],
         correcta: "Miguel Ángel",
-        img: "https://cdn.pixabay.com/photo/2015/03/30/12/35/vatican-701592_960_720.jpg"
+        img: "https://tse3.mm.bing.net/th/id/OIP.FdJFVZfGvVAhueBkG58yZQHaD6?rs=1&pid=ImgDetMain&o=7&rm=3"
       },
       {
         pregunta: "¿Qué pintor es famoso por cortar parte de su oreja?",
         opciones: ["Van Gogh", "Rembrandt", "Monet", "Cézanne"],
         correcta: "Van Gogh",
-        img: "https://cdn.pixabay.com/photo/2017/08/29/13/27/vincent-2691989_960_720.jpg"
+        img: "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/600/painter.jpg"
       },
       {
         pregunta: "¿Qué movimiento artístico lideró Claude Monet?",
         opciones: ["Impresionismo", "Cubismo", "Surrealismo", "Futurismo"],
         correcta: "Impresionismo",
-        img: "https://cdn.pixabay.com/photo/2019/07/19/12/00/monet-4349677_960_720.jpg"
+        img: "https://m.media-amazon.com/images/I/81Wu5RAYFiL._AC_SL1500_.jpg"
       },
       {
         pregunta: "¿Quién pintó 'La última cena'?",
         opciones: ["Da Vinci", "Rafael", "Caravaggio", "Botticelli"],
         correcta: "Da Vinci",
-        img: "https://cdn.pixabay.com/photo/2017/02/27/15/07/the-last-supper-2102249_960_720.jpg"
+        img: "https://tiposdearte.com/wp-content/uploads/2014/12/leonardo-da-vinci.jpg"
       },
       {
-        pregunta: "¿Qué famoso pintor español tenía el nombre completo Pablo Ruiz Picasso?",
-        opciones: ["Picasso", "Goya", "Dalí", "Miró"],
-        correcta: "Picasso",
-        img: "https://cdn.pixabay.com/photo/2019/08/23/22/49/guernica-4426098_960_720.jpg"
+        pregunta: "¿Quién pintó “El jardín de las delicias”?",
+        opciones: ["leonardo da vinci", "pieter brueghel", "el bosco", "caravaggio"],
+        correcta: "el bosco",
+        img: "https://www.elindependiente.com/wp-content/uploads/2017/03/El-jard%C3%ADn-de-las-delicias-656x368.jpg"
       },
       {
         pregunta: "¿Qué pintura muestra a una mujer con una sonrisa misteriosa?",
         opciones: ["Mona Lisa", "La Gioconda", "Ambas son correctas", "Ninguna"],
         correcta: "Ambas son correctas",
-        img: "https://cdn.pixabay.com/photo/2016/11/23/14/45/mona-lisa-1853728_960_720.jpg"
+        img: "https://wallpaperswide.com/download/mona_lisa_by_leonardo_da_vinci-wallpaper-1440x960.jpg"
       },
       {
         pregunta: "¿Qué escultor realizó 'David'?",
         opciones: ["Miguel Ángel", "Bernini", "Donatello", "Rafael"],
         correcta: "Miguel Ángel",
-        img: "https://cdn.pixabay.com/photo/2014/04/03/00/41/david-309248_960_720.jpg"
+        img: "https://lacamaradelarte.com/wp-content/uploads/2021/11/1614164370_405537_1614164804_noticia_normal_recorte1-661x420.jpg"
       }
     ]
   }
